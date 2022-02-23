@@ -1,5 +1,6 @@
 baseURL = "/"
 title = "Goldydocs"
+relativeUrls = true
 
 # Language settings
 contentDir = "content/en"
